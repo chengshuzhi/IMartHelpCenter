@@ -1,4 +1,4 @@
-# 六、NFT在Mixverse上3D展示？
+# 六、NFT在Shareverse上3D展示？
 
 iMart的NFT如果在Shareverse展出，则会拥有Shareverse专属的Mix ID。凭借Mix ID即可在Shareverse中找到并沉浸式观赏NFT。用户可以跳转3D展馆观看。
 
